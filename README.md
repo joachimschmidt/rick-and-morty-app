@@ -5,6 +5,16 @@
 Aplikacja została stworzona na przestrzeni dwóch tygodni jako zadanie rekrutacyjne do koła naukowego Solvro.
 Aplikacja została napisana we flutterze z wykorzystaniem biblioteki bloc
 
+Funkcje:
+
+- pełne wykorzystanie api rickandmortyapi.com
+- filtrowanie i wyszukiwanie
+- cache wszystkich danych z użyciem hive
+- automatyczne przełączanie w tryb offline po utracie połączenia z internetem
+- tryb offline pozwalający na dostęp do zasobów w formie zbliżonej do trybu online
+- automatyczne przełączanie w tryb online po przywróceniu połączenia
+- zarządzanie stanami z użyciem bloc
+- tryb light/dark
 
 >[Link do apki w formie web](https://rick-and-morty-app-9a967.web.app/#/)
 
