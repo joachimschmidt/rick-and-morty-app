@@ -14,7 +14,10 @@ Funkcje:
 - tryb offline pozwalający na dostęp do zasobów w formie zbliżonej do trybu online
 - automatyczne przełączanie w tryb online po przywróceniu połączenia
 - zarządzanie stanami z użyciem bloc
+- autorski bottom navigation bar
 - tryb light/dark
+
+>[Link do sklepu](https://play.google.com/store/apps/details?id=jschmidt.pl.rick_and_morty_app) (In review - aktualnie niedostępna)
 
 >[Link do apki w formie web](https://rick-and-morty-app-9a967.web.app/#/)
 
